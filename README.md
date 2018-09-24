@@ -54,5 +54,7 @@ for (pos = 0; pos <= 100; pos += 1)
 
 The Pikachu gets excited when you get closer to her/him.
 
+[Code Link] (https://github.com/PGhzhang/IDD-Fa18-Lab4/blob/master/pikachu.ino)
+
 [![](http://img.youtube.com/vi/YfQBDpG5x4g/0.jpg)](http://www.youtube.com/watch?v=YfQBDpG5x4g "")
  
