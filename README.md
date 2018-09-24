@@ -37,6 +37,7 @@ for (pos = 0; pos <= 100; pos += 1)
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+
 [![](http://img.youtube.com/vi/usf_31diIU4/0.jpg)](http://www.youtube.com/watch?v=usf_31diIU4 "")
 
 
