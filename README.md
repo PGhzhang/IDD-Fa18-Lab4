@@ -10,6 +10,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
+![](http://img.youtube.com/vi/O-oZEwX4FFs/0.jpg)](http://www.youtube.com/watch?v=O-oZEwX4FFs "")
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
@@ -30,6 +32,8 @@ pin 9
 
 **b. What aspects of the Servo code control angle or speed?**
 
+Pos indicates the range of servo roation and delay() controls the speed 
+
 ```
 for (pos = 0; pos <= 100; pos += 1)
 ```
@@ -37,6 +41,8 @@ for (pos = 0; pos <= 100; pos += 1)
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+
+I integrated IR Proximity as the input.
 
 [![](http://img.youtube.com/vi/usf_31diIU4/0.jpg)](http://www.youtube.com/watch?v=usf_31diIU4 "")
 
