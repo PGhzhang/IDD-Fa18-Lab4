@@ -10,7 +10,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
-![](http://img.youtube.com/vi/O-oZEwX4FFs/0.jpg)](http://www.youtube.com/watch?v=O-oZEwX4FFs "")
+[![](http://img.youtube.com/vi/O-oZEwX4FFs/0.jpg)](http://www.youtube.com/watch?v=O-oZEwX4FFs "")
 
 ## Part B. Actuating Servo motors
 
